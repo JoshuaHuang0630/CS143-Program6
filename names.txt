@@ -1,0 +1,13 @@
+# Josephus Problem - Participant Names
+# One name per line. Blank lines and lines starting with '#' are ignored.
+
+Alice
+Bob
+Charlie
+Diana
+Edward
+Fiona
+George
+Hannah
+Ivan
+Julia
